@@ -10,3 +10,5 @@ git branch -u main
 git push -u origin main
 
 git log --pretty=oneline
+
+git diff
