@@ -1,7 +1,7 @@
 Como funciona minha aplicação
 
 
-git init
+git init \n
 git branch
 git status
 git add .
