@@ -19,4 +19,10 @@ git log --pretty=oneline
 
 git diff
 
+git checkout -b "nova-branch-development"
+
+git push --set-upstream origin nova-branch-development
+
+
+
 ##################
