@@ -19,4 +19,6 @@ git log --pretty=oneline
 
 git diff
 
+git checkout -b "nova-branch-development"
+
 ##################

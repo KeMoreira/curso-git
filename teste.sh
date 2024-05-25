@@ -5,4 +5,10 @@ echo Teste
 
 read "Digite um nome" nome; echo 
 echo "
-    Bom dia, $nome"
+
+                    Bom dia, $nome
+    
+    "
+echo "
+                    Aguarde...
+     "
